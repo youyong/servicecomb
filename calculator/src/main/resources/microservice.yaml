@@ -4,8 +4,7 @@ service_description:
   # name of the declaring microservice
   name: calculator
   version: 0.0.1
-  environment: development
-
+  #environment: development
 servicecomb:
   service:
     registry:

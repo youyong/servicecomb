@@ -29,10 +29,4 @@ public class CalculatorRestEndpoint implements  CalculatorEndpoint  {
         double bmiResult = calculatorService.calculate(height, weight);
         return new BMIViewObject(bmiResult, instanceId, new Date());
     }
-
-    @GetMapping("hi")
-    @Override
-    public String hi(String name) {
-        return "hi " + name;
-    }
 }
