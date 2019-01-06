@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab8781bd-44cd-4f8d-93a7-0f2a02ffbb84" name="Default Changelist" comment="" />
+    <list default="true" id="ab8781bd-44cd-4f8d-93a7-0f2a02ffbb84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/main/resources/microservice.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/main/resources/microservice.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/target/classes/microservice.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/target/classes/microservice.yaml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/calculator/target/" />
@@ -47,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/calculator/src/main/java/org/apache/servicecomb/samples/bmi/BMIViewObject.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,10 +82,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calculator/src/main/java/org/apache/servicecomb/samples/bmi/CalculatorRestEndpoint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
+            <state relative-caret-position="255">
               <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -90,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/calculator/src/main/resources/microservice.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            <state relative-caret-position="190">
+              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -112,7 +116,7 @@
         <entry file="file://$PROJECT_DIR$/webapp/src/main/resources/application.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="70">
-              <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -121,7 +125,7 @@
         <entry file="file://$PROJECT_DIR$/webapp/src/main/resources/microservice.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -154,6 +158,9 @@
       <find>discovery</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -172,8 +179,8 @@
         <option value="$PROJECT_DIR$/calculator/src/main/java/org/apache/servicecomb/samples/bmi/CalculatorRestEndpoint.java" />
         <option value="$PROJECT_DIR$/calculator/src/main/java/org/apache/servicecomb/samples/bmi/InstanceInfoService.java" />
         <option value="$PROJECT_DIR$/calculator/src/main/java/org/apache/servicecomb/samples/bmi/InstanceInfoServiceImpl.java" />
-        <option value="$PROJECT_DIR$/calculator/src/main/resources/microservice.yaml" />
         <option value="$PROJECT_DIR$/webapp/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/calculator/src/main/resources/microservice.yaml" />
       </list>
     </option>
   </component>
@@ -199,6 +206,7 @@
     <option name="width" value="1366" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -218,36 +226,6 @@
               <item name="bmi" type="462c0819:PsiDirectoryNode" />
               <item name="calculator" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="bmi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bmi" type="462c0819:PsiDirectoryNode" />
-              <item name="calculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bmi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bmi" type="462c0819:PsiDirectoryNode" />
-              <item name="calculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bmi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bmi" type="462c0819:PsiDirectoryNode" />
-              <item name="calculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bmi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bmi" type="462c0819:PsiDirectoryNode" />
-              <item name="calculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bmi" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -263,7 +241,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546773092368" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546773813745" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -355,7 +333,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18360000" />
+    <option name="totallyTimeSpent" value="18631000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -367,23 +345,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="516" y="17" width="1346" height="688" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Web" sideWeight="0.50274724" side_tool="true" weight="0.1860817" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49882352" visible="true" weight="0.23794712" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49882352" visible="true" weight="0.25567323" />
       <window_info id="Structure" order="1" sideWeight="0.5011765" side_tool="true" weight="0.1860817" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50274724" side_tool="true" weight="0.1860817" />
-      <window_info anchor="bottom" id="Messages" weight="0.3282313" />
-      <window_info anchor="bottom" id="Problems" weight="0.32993197" />
-      <window_info anchor="bottom" id="Java Enterprise" weight="0.32993197" />
+      <window_info id="Web" order="7" sideWeight="0.50274724" side_tool="true" weight="0.1860817" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8078669" visible="true" weight="0.2932331" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8078669" visible="true" weight="0.42248723" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.82526475" weight="0.2414966" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -394,6 +368,9 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.17473525" side_tool="true" weight="0.95098037" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Problems" order="13" weight="0.32993197" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32993197" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3282313" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -619,9 +596,10 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="0.03934618772633845" x="11833.587064676618" y="1675.0" />
+          <settings layout="Hierarchic Group" zoom="0.03934618772633845" x="11834.0" y="1675.0" />
           <SelectedNodes />
           <Categories />
+          <SCOPE>All</SCOPE>
           <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
@@ -640,16 +618,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/test/java/org/apache/servicecomb/samples/webapp/WebappApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/test/java/org/apache/servicecomb/samples/webapp/WebappApplicationTests.java" />
     <entry file="file://$PROJECT_DIR$/webapp/src/main/resources/static/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-133">
@@ -735,7 +704,7 @@
     <entry file="file://$PROJECT_DIR$/webapp/src/main/resources/microservice.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -752,14 +721,7 @@
     <entry file="file://$PROJECT_DIR$/webapp/src/main/resources/application.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
-          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calculator/src/main/resources/microservice.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -773,7 +735,7 @@
     <entry file="file://$PROJECT_DIR$/calculator/src/main/java/org/apache/servicecomb/samples/bmi/BMIViewObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -801,11 +763,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/calculator/src/main/java/org/apache/servicecomb/samples/bmi/CalculatorRestEndpoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
+        <state relative-caret-position="255">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculator/src/main/resources/microservice.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>

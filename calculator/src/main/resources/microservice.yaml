@@ -3,7 +3,7 @@ APPLICATION_ID: bmi
 service_description:
   # name of the declaring microservice
   name: calculator
-  version: 0.0.1,
+  version: 0.0.1
   environment: development
 
 servicecomb:
